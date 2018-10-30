@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cantidad: MyText
+  precioventa: MyText
+  orden: one
+  producto: one
+
+two:
+  cantidad: MyText
+  precioventa: MyText
+  orden: two
+  producto: two
